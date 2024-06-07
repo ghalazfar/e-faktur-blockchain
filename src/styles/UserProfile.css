@@ -1,0 +1,14 @@
+.profileContainer {
+    background-color: #ccc;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+input[disabled] {
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+.table th, .table td {
+    padding: 12px;
+}
